@@ -71,3 +71,4 @@ blockSlider.addEventListener('mouseover',()=>{
 blockSlider.addEventListener('mouseleave',()=>{
     TimerImage = setInterval(()=>slowSlider(), second)
 })
+
